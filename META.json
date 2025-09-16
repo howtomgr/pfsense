@@ -1,0 +1,58 @@
+{
+  "category": "firewalls",
+  "created_date": "2025-09-15T23:14:54.041907",
+  "default_ports": [
+    443
+  ],
+  "dependencies": [
+    "freebsd-base"
+  ],
+  "description": "pfSense is a free network firewall distribution based on FreeBSD",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/firewalls/pfsense",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/firewalls/pfsense",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T23:14:54.041914",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "pfsense",
+  "repository_url": "https://github.com/howtomgr/pfsense",
+  "spec_version": "2.0",
+  "subcategory": "firewalls",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "firewall",
+    "security",
+    "networking",
+    "routing"
+  ],
+  "title": "Pfsense",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/firewalls/pfsense"
+}
